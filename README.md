@@ -1,4 +1,4 @@
-![ background](github_intro.gif)
+![background](github_intro.gif)
 
 🔭 I’m currently working on [Weather App](https://github.com/S-Maitland/weather-app)
 
