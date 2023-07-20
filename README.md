@@ -1,4 +1,4 @@
-![background](github_intro.gif)
+![background](header.gif)
 
 🔭 I’m currently working on [Weather App](https://github.com/S-Maitland/weather-app)
 
@@ -9,4 +9,3 @@
 💬 Ask me about **React, Next.js, SCSS, Java, SpringBoot**
 
 📫 How to reach me **scott@maitland.me.uk**
-
