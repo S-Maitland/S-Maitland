@@ -16,4 +16,4 @@
 
 📫 How to reach me **scott@maitland.me.uk**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-maitland)](https://github.com/s-maitland/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s-maitland&layout=compact)
